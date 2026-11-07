@@ -1,0 +1,10 @@
+geography,metric,2021_usd_per_acre,2022_usd_per_acre,2023_usd_per_acre,2024_usd_per_acre,2025_usd_per_acre,2026_usd_per_acre,pct_change_2025_to_2026,pct_change_2021_to_2026,source,source_release_date,notes
+Florida,Farm real estate (land + buildings),6240,6920,7320,8300,8700,9150,5.2,46.6,"USDA NASS Land Values 2026 Summary (land0726), via Quick Stats economics bulk file","2026-07-31 (2021-2025 values as published in the 2026 Summary / Quick Stats, may include revisions)","Survey of ~30,000 operations, Apr-Jun 2026"
+Florida,Cropland,7570,8340,9290,10170,10550,11100,5.2,46.6,"USDA NASS Land Values 2026 Summary",2026-07-31,
+Florida,Pasture,5600,5800,6300,7100,7400,7650,3.4,36.6,"USDA NASS Land Values 2026 Summary",2026-07-31,
+Tennessee,Farm real estate (land + buildings),4290,4740,5160,5710,6150,6500,5.7,51.5,"USDA NASS Land Values 2026 Summary",2026-07-31,
+Tennessee,Cropland,4160,4590,5060,5610,6050,6400,5.8,53.8,"USDA NASS Land Values 2026 Summary",2026-07-31,
+Tennessee,Pasture,4030,4490,4960,5360,5600,5910,5.5,46.7,"USDA NASS Land Values 2026 Summary",2026-07-31,
+United States,Farm real estate (land + buildings),3330,3720,3970,4170,4350,4500,3.4,35.1,"USDA NASS Land Values 2026 Summary",2026-07-31,48 contiguous states
+United States,Cropland,4350,4940,5320,5570,5830,6020,3.3,38.4,"USDA NASS Land Values 2026 Summary",2026-07-31,
+United States,Pasture,1470,1630,1740,1830,1920,2000,4.2,36.1,"USDA NASS Land Values 2026 Summary",2026-07-31,
